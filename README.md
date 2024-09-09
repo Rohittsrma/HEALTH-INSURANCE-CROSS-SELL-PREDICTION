@@ -61,9 +61,11 @@ Evaluate the model's performance on the testing set using the chosen metrics.
 
 Fine-tune the model if necessary.
 
-## Prediction:
+## model comparison:
 
-Use the trained model to predict whether new customers are likely to purchase additional health insurance.
+Use the trained models and compare their accuracy.
+![image](https://github.com/user-attachments/assets/d45f9920-f9be-4ad9-9b28-f4f21ee2a657)
+
 
 # Additional Notes
 Consider using techniques like cross-validation to assess model performance more reliably.
