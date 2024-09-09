@@ -5,27 +5,29 @@ This project aims to predict whether a customer will purchase additional health 
 # Dataset
 The dataset contains the following information:
 
-Customer ID: Unique identifier for each customer.
+id : Unique ID for the customer
 
-Age: Age of the customer.
+Gender : Gender of the customer
 
-Gender: Gender of the customer.
+Age : Age of the customer
 
-Driving License: Indicates whether the customer has a driving license.
+Driving_License 0 : Customer does not have DL, 1 : Customer already has DL
 
-Vehicle Owned: Indicates whether the customer owns a vehicle.
+Region_Code : Unique code for the region of the customer
 
-Vehicle Insurance: Indicates whether the customer has vehicle insurance.
+Previously_Insured : 1 : Customer already has Vehicle Insurance, 0 : Customer doesn't have Vehicle Insurance
 
-Policy Tenure: Duration of the customer's existing policy (in years).
+Vehicle_Age : Age of the Vehicle
 
-Premium: Premium amount of the customer's existing policy.
+Vehicle_Damage :1 : Customer got his/her vehicle damaged in the past. 0 : Customer didn't get his/her vehicle damaged in the past.
 
-Claim: Indicates whether the customer has filed a claim in the past.
+Annual_Premium : The amount customer needs to pay as premium in the year
 
-Claim Amount: Amount of the claim filed by the customer (if applicable).
+PolicySalesChannel : Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
 
-Response: Target variable indicating whether the customer purchased additional health insurance (1) or not (0).
+Vintage : Number of Days, Customer has been associated with the company
+
+Response : 1 : Customer is interested, 0 : Customer is not interested
 
 # Methodology
 
