@@ -1,12 +1,12 @@
-Overview
+##Overview
 This project aims to predict whether a customer will purchase additional health insurance products based on their existing insurance policies and demographic information.
 
-Dataset
+##Dataset
 The dataset contains the following information:
 
-Customer ID: Unique identifier for each customer.
-Age: Age of the customer.
-Gender: Gender of the customer.
+-Customer ID: Unique identifier for each customer.
+-Age: Age of the customer.
+-Gender: Gender of the customer.
 Driving License: Indicates whether the customer has a driving license.
 Vehicle Owned: Indicates whether the customer owns a vehicle.
 Vehicle Insurance: Indicates whether the customer has vehicle insurance.
