@@ -74,3 +74,7 @@ Consider using techniques like cross-validation to assess model performance more
 Explore feature importance to understand which factors contribute most to the prediction.
 
 Implement a deployment pipeline to integrate the model into a production environment.
+
+# Dashboard
+![bi](https://github.com/user-attachments/assets/b45f1d82-58cd-40cd-ad50-58e04d790c6f)
+
